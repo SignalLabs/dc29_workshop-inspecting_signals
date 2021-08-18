@@ -1,0 +1,3 @@
+## Media Licenses
+
+We have tried to include the original link to the content (and license information) to media files included in this repository within the workbook content. Check the listed sources for license information. If sources for media have not been listed in the workbook, the media was created specifically for this course and is under the [LICENSE](../../LICENSE) stored at the root level of this repository.
