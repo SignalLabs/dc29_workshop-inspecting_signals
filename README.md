@@ -18,9 +18,9 @@ We created a four-hour workshop for DEF CON 29 as a way to share knowledge that 
 If you go hunting for wireless resources, there is a wealth of information that can be found in books and online. However, it can be challenging to consolidate this mass of this information into a coherent mental model for wireless communications, especially at some of the lower levels. Because of the limited size of the workshop, we decided to clean up our notes for some of the earlier units in the workshop and present them here. Additionally, we have included several references for further study.
 
 Over time, we hope to convert more of our workshop into a workbook format, so feel free to
-start this repository for future updates.
+star this repository for future updates.
 
-There are very likely errors throughout this text. If you find any, please let us know by [opening an issue](https://github.com/SignalLabs/dc29_workshop-inspecting_signals/issues).
+If you find any errors, please let us know by [opening an issue](https://github.com/SignalLabs/dc29_workshop-inspecting_signals/issues).
 
 Feel free to join us in [Discord](https://discord.gg/MTYMrEs4ja) if you have any questions.
 
