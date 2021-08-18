@@ -25,7 +25,7 @@ Of course, transmitting two copies of the signal this is not very efficient. To 
 
 For digital systems, the goal is to transfer binary data (ones and zeros). One way to do this is by creating a baseband signal that uses a low (or non-existent) amplitude to represent a "zero" value and a high-amplitude signal to represent a "one" value. This is called Amplitude Shift Keying (ASK). While it is certainly possible to transmit the carrier wave the entire time you are transmitting a message using ASK, it is often better to only transmit when you want to send a "one". This type of ASK is called **on-off keying** (OOK), and is one of the most common forms of ASK.
 
-![Slow Hell.jpg](/mnt/hgfs/workshop/dc29_workshop_valut/Workbook/media/3-ook_waterfall.jpg)
+![Slow Hell.jpg](./media/3-ook_waterfall.jpg)
 
 **Figure 3.4:** A waterfall diagram showing on-off keying in a teleprinter system (image source: [sigidwiki](https://www.sigidwiki.com/wiki/Hellschreiber))
 

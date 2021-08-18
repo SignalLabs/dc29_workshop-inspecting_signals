@@ -186,10 +186,26 @@ If you have played with recording signals using an SDR, you are very likely fami
 
 
 [^cant_stop]: Maybe the heat death of the universe will stop signals...but until then, "You can't stop the signal".
+
+
+
 [^usrp_adc_rate]: The USRP B205mini software-defined radio can measure around 61.44 million samples per second, or one sample every 16.3 nanoseconds (nano means one billionth). It is hard to imagine how fast 16.3 nanoseconds is....but if you do some math, you will find that light can only travel about 4.89 meters (16.0 feet) in the time it takes the receiver to collect one sample. To put this in further perspective, light only takes about 1.3 seconds to travel from the moon to the earth.
+
+
 [^ook]: Consider turning a single frequency sine wave on and off to send a message (e.g., 1  = on;  0 = off). Once you try to switch the wave on and off faster than its frequency, you will cut the wave cycle short, creating a new wave pattern (at a higher frequency). With this modulation technique, you can, at best, only get a "spectral efficiency" of 1 bit per Hz (there are more efficient methods of sending a message, but at some point, the only way to reliably transfer more information is to use more frequencies (i.e., use greater bandwidth).
-[^human_voice_range]: The range of the human voice is usually somewhere between 125 to 8000 Hz, but speech can be reliably transmitted by keeping 300 to 3400 Hz. ↩
+
+
+
+[^human_voice_range]: The range of the human voice is usually somewhere between 125 to 8000 Hz, but speech can be reliably transmitted by keeping 300 to 3400 Hz.
+
+
+
 [^cable_filtering]: To block certain channels (or only provide certain services) your cable company can place filters (to block certain frequencies) on the coax cable to prevent you from receiving signals you did not pay for.
+
+
 [^OFDM]: There are some techniques used to space signals that intentionally let channels overlap. One such technique is Orthogonal frequency-division multiplexing (OFDM), which is used by many digital wideband  (i.e., uses a lot of bandwidth) schemes, including 802.11a networks. However, different signals overlap in very specific ways to make recovery of each original signal possible.
+
+
+
 [^hardware_benefit]: This double sampling is also more efficient from a hardware perspective. Instead of using one really good analog-to-digital (ADC) converter at a high sample rate, we can get similar results using two different ADCs with lower sample rates.
 
