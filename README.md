@@ -29,10 +29,10 @@ Feel free to join us in [Discord](https://discord.gg/MTYMrEs4ja) if you have any
 ## Outline
 
   * 0: [ Intro](./workbook/0%20-%20Intro.md)
-  * 1: [Wireless Waves](./workbook/1%20-%20Wireless Waves.md)
-  * 2: [Saving the Signal](./workbook/2%20-%20Saving the Signal.md)
-  * 3: [Shaping the Signal](./workbook/3%20-%20Shaping the Signal.md)
+  * 1: [Wireless Waves](./workbook/1%20-%20Wireless%20Waves.md)
+  * 2: [Saving the Signal](./workbook/2%20-%20Saving%20the%20Signal.md)
+  * 3: [Shaping the Signal](./workbook/3%20-%20Shaping%20the%20Signal.md)
   * 4: Electromagnetic Spectrum
   * 5: Ones and Zeros
   * 6: Packets
-  * 7: [Satellites to Shock Collars](./workbook/7%20-%20Satellites to Shock Collars.md)
+  * 7: [Satellites to Shock Collars](./workbook/7%20-%20Satellites%20to%20Shock%20Collars.md)
