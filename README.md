@@ -28,13 +28,13 @@ Feel free to join us in [Discord](https://discord.gg/MTYMrEs4ja) if you have any
 
 ## Outline
 
-[ Intro](./workbook/0 - Intro.md)
+[ Intro](/workbook/0 - Intro.md)
 
-[Wireless Waves](./workbook/1 - Wireless Waves.md)
+[Wireless Waves](/workbook/1 - Wireless Waves.md)
 
-[Saving the Signal](./workbook/2 - Saving the Signal.md)
+[Saving the Signal](/workbook/2 - Saving the Signal.md)
 
-[Shaping the Signal](./workbook/3 - Shaping the Signal.md)
+[Shaping the Signal](/workbook/3 - Shaping the Signal.md)
 
 Electromagnetic Spectrum
 
@@ -42,4 +42,4 @@ Ones and Zeros
 
 Packets
 
-[Satellites to Shock Collars](./workbook/7 - Satellites to Shock Collars.md)
+[Satellites to Shock Collars](/workbook/7 - Satellites to Shock Collars.md)
